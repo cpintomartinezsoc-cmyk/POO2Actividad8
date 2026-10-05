@@ -267,7 +267,7 @@ El estado del pedido cambia desde `PENDIENTE` a `EN_REPARTO` y finalmente a `ENT
 
 Proyecto: Sistema de gestión de entregas SpeedFast
 
-https://github.com/cpintomartinezsoc-cmyk/Poo2Actividad8.git
+https://github.com/cpintomartinezsoc-cmyk/POO2Actividad8.git
 
 Entrega: 05/10/2026
 
